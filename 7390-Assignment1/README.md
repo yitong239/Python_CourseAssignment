@@ -1,5 +1,7 @@
 In this assignment1, I finished two things.
 
+
+
 1. Part A Cleaning and EDA 
 
 For the data cleaning part, I analyzed questions and based on the checking list below:
@@ -32,6 +34,7 @@ Data cleaning checklist
 
 -Possibly center/scale variables
 
+
 And I also analyzed questions based on the criminal dataset I choosed.
 
 -Are there missing values?
@@ -39,6 +42,7 @@ And I also analyzed questions based on the criminal dataset I choosed.
 -Are there inappropraite values?
 
 -Remove or impute any bad data.
+
 
 Answerd the following questions for the data in each column:
 
@@ -58,6 +62,7 @@ Answerd the following questions for the data in each column:
 
 
 2. Part B Writing a web scraper 
+
 
 For this assignment, I performed things below:
 
