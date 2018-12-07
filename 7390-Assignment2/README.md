@@ -1,6 +1,6 @@
 In this assingment I clustered the data and created predictive linear and logistic models.
 
-Cluster the data:
+Clustered the data:
 Used at least two methods to cluster the data. 
 Answered the following questions for the clustering:
 
